@@ -1,6 +1,7 @@
 # Tempo no momento | Current Weather
 
 **PT-BR:** Web app para exibição do tempo no momento e previsão para os próximos 3 dias. 
+
 **EN:** Web app to show current weather and forecast for next 3 days
 
 **Observações:** Primeiro de tudo é necessário ter um cadastro e ter gerado um token no site da API do [CLIMATEMPO](https://advisor.climatempo.com.br/) e atrelar o ID das cidades que você deseja obter as informações conforme [documentação](http://apiadvisor.climatempo.com.br/doc/index.html#api-UserTokenManagement-UserTokenUpsertLocales).
