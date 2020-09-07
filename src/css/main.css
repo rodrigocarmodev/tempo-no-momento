@@ -1,0 +1,102 @@
+body {
+  background-color: #2e88c4;
+}
+
+label {
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.main {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: auto;
+  height: auto;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 35px;
+  margin-top: 30px;
+  -webkit-box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+}
+
+.card-small {
+  width: 200px;
+  height: 240px;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 35px;
+  margin: 0 10px;
+  -webkit-box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 2px 25px -8px rgba(0, 0, 0, 0.75);
+}
+
+.card-img {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding: 20px;
+}
+.card-info {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  width: 520px;
+  margin: 30px auto;
+  background-color: #fff;
+  padding: 0px 12px;
+  font-size: 18px;
+  border: 1px solid #c6e2dc;
+  border-radius: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.btn-verify {
+  margin-top: 10px;
+  height: 33px;
+  width: 84px;
+  background-color: #ffb308;
+  color: #000000;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  -moz-box-shadow: -1px 2px 25px -8px rgba(0,0,0,0.75);
+  -webkit-box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  cursor: pointer;
+}
+
+.btn-verify:hover {
+  margin-top: 10px;
+  height: 33px;
+  width: 84px;
+  background-color: #08ddff;
+  color: #000000;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  -moz-box-shadow: -1px 2px 25px -8px rgba(0,0,0,0.75);
+  -webkit-box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  box-shadow: -1px 2px 25px -11px rgba(0,0,0,0.75);
+  cursor: pointer;
+}
